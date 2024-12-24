@@ -11,15 +11,6 @@ function App() {
 
   const [redirectPath, setRedirectPath] = useState(null);
 
-  /* useEffect(() => {
-     const path = sessionStorage.redirect;
-     if (path) {
-       sessionStorage.removeItem("redirect");
-       setRedirectPath(path.replace(window.location.origin, ""))
-     }
- 
-   }, [])
-   console.log(redirectPath)*/
   return (
     <Router >
       <RouteProvider>
