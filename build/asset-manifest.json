@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/7Licenzy/static/css/main.fa6efb25.css",
+    "main.js": "/7Licenzy/static/js/main.1d3e22ee.js",
+    "static/media/ques.png": "/7Licenzy/static/media/ques.b279b9660d89bee188d7.png",
+    "static/media/icon_start.png": "/7Licenzy/static/media/icon_start.e3772c12c9d2427b2672.png",
+    "static/media/Akrobat-ExtraBold.otf": "/7Licenzy/static/media/Akrobat-ExtraBold.c563e35d28216ebe96ef.otf",
+    "static/media/Akrobat-SemiBold.otf": "/7Licenzy/static/media/Akrobat-SemiBold.48f2a482355b4face150.otf",
+    "static/media/Akrobat-ExtraLight.otf": "/7Licenzy/static/media/Akrobat-ExtraLight.47c8f5999b947b591474.otf",
+    "static/media/Akrobat-Regular.otf": "/7Licenzy/static/media/Akrobat-Regular.12827ce5e0d9afebcc19.otf",
+    "static/media/7l.png": "/7Licenzy/static/media/7l.768b51e224aebc4dce0d.png",
+    "index.html": "/7Licenzy/index.html",
+    "main.fa6efb25.css.map": "/7Licenzy/static/css/main.fa6efb25.css.map",
+    "main.1d3e22ee.js.map": "/7Licenzy/static/js/main.1d3e22ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa6efb25.css",
+    "static/js/main.1d3e22ee.js"
+  ]
+}
