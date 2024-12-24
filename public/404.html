@@ -7,7 +7,7 @@
     <script>
         sessionStorage.redirect = location.href;
         var path = location.pathname;
-        var basePath = ".";
+        var basePath = "";
         if (path.indexOf(basePath) !== 0) {
             location.replace(location.origin + basePath);
         }
