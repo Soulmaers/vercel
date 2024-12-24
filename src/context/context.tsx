@@ -23,7 +23,6 @@ export const ContextStateDataGoggle = createContext<DashboardsData | null>(null)
 
 
 
-
 const DashboardDataprovider: React.FC<DashBoardProvider> = ({ children }) => {
 
     const [data, setData] = useState<DashboardsData | null>(null)
